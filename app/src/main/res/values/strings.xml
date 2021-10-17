@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="title_home">홈</string>
+    <string name="title_rec">추천</string>
+    <string name="title_statistics">통계</string>
+    <string name="title_settings">설정</string>
+</resources>
